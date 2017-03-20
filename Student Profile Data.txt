@@ -1,0 +1,18 @@
+<Student_Profile_Details>
+            <Student_Age>27</Student_Age>
+            <Student_Course>BSCS-CS</Student_Course>
+            <Student_First_Name>Aris</Student_First_Name>
+            <Student_Gender>Male</Student_Gender>
+            <Student_Last_Name>Nazareno</Student_Last_Name>
+            <Student_Number>1000</Student_Number>
+            <Student_Year_Level>4</Student_Year_Level>
+         </Student_Profile_Details>
+          <Student_Profile_Details>
+            <Student_Age>23</Student_Age>
+            <Student_Course>BSCS-IT</Student_Course>
+            <Student_First_Name>Karl</Student_First_Name>
+            <Student_Gender>Male</Student_Gender>
+            <Student_Last_Name>Alicer</Student_Last_Name>
+            <Student_Number>1001</Student_Number>
+            <Student_Year_Level>3</Student_Year_Level>
+         </Student_Profile_Details>

@@ -1,0 +1,14 @@
+        <Subject_Details>
+            <Subject_Description>Java is good</Subject_Description>
+            <Subject_Status>Active</Subject_Status>
+            <Subject_Code>1J</Subject_Code>
+            <Subject_Name>Java</Subject_Name>
+            <Subject_Units>3</Subject_Units>
+         </Subject_Details>
+               <Subject_Details>
+            <Subject_Description>Math is good</Subject_Description>
+            <Subject_Status>Active</Subject_Status>
+            <Subject_Code>1M</Subject_Code>
+            <Subject_Name>Math</Subject_Name>
+            <Subject_Units>5</Subject_Units>
+         </Subject_Details>
